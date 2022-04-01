@@ -1,0 +1,2 @@
+up:
+	nodemon index.ts

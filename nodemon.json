@@ -1,0 +1,5 @@
+{
+	"watch": ["."],
+	"ignore": ["*.json"],
+	"exec": "ts-node ./index.ts"
+}
